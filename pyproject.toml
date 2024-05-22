@@ -1,0 +1,14 @@
+[project]
+name = "comfyui-enhanced-save-node"
+description = "Nodes:Enhanced Save Node"
+version = "1.0.0"
+license = "LICENSE"
+
+[project.urls]
+Repository = "https://github.com/HebelHuber/comfyui-enhanced-save-node"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "comfyui-enhanced-save-node"
+Icon = ""
